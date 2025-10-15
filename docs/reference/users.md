@@ -57,14 +57,13 @@ The user is represented as a [`User` object](#user) with the following propertie
 
 ### Sample Request
 
-````json
-POST /v1/users
-Content-Type: application/json
-
-{
-  "id": "jmiller",
-  "name": "Jane Miller"
-}
+````bash
+curl -X POST https://api.example.com/v1/users \
+  -H "Content-Type: application/json" \
+  -d '{
+    "id": "jmiller",
+    "name": "Jane Miller"
+  }'
 ````
 
 ### Sample Response
