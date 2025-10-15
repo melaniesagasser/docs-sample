@@ -1,5 +1,6 @@
 # docs-sample
-This repo contains the assignments for the IONOS home test. It contains samples of my writing, editing, and translation abilities.
+This repo contains the assignments for the IONOS home test. It contains samples of my writing, editing, and translation abilities. </br>
+Please note that some of the links in the files are only dummy links.
 
 ## Contents
 
