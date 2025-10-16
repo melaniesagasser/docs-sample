@@ -16,7 +16,7 @@ This endpoint doesn’t require any parameters.
 
 ### Sample Response
 
-The content type is `application/json`. Each user is represented as a [`User` object](#user) with an `id` and `name`.
+The content type is `application/json`. Each user is represented as a [User object](#user) with an `id` and `name`.
 
 ````json
 [
@@ -48,7 +48,7 @@ Creates a new user with the specified ID and name.
 ### Request Body
 
 The request must be sent with the content type `application/json`. </br>
-The user is represented as a [`User` object](#user) with the following properties:
+The user is represented as a [User object](#user) with the following properties:
 
 | Property | Description | Type | Required | Notes |
 | --- | --- | --- | --- | ---- |
